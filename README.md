@@ -44,4 +44,4 @@ The goal of this repo is to strengthen my understanding of core React concepts b
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/pranita7748/react-practice.git
+git clone https://github.com/pranita7748/React-practice.git
